@@ -6,8 +6,8 @@ Nick Rushak Udacity VR Nanodegree Project 02
 This project is part of [Udacity](https://www.udacity.com "Udacity - Be in demand")'s [VR Developer Nanodegree](https://www.udacity.com/course/vr-developer-nanodegree--nd017).
 
 ## Versions
-- Unity 2017.1.0p5
-- GVR Unity SDK v1.70.0
+- [Unity 2017.1.0p5](https://unity3d.com/get-unity/download/archive)
+- [GVR Unity SDK 1.60.0](https://github.com/googlevr/gvr-unity-sdk/releases/tag/v1.60.0)
 
 ## Project Reflection
 - Project completion time: 4hrs
