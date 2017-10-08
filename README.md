@@ -1,4 +1,4 @@
-# Nick Rushak Udacity VR Nanodegree Project 02
+Nick Rushak Udacity VR Nanodegree Project 02
 ===================================
 
 ## VR Scenes & Objects Course Assets
