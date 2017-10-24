@@ -9,6 +9,9 @@ This project is part of [Udacity](https://www.udacity.com "Udacity - Be in deman
 - [Unity 2017.1.0p5](https://unity3d.com/get-unity/download/archive)
 - [GVR Unity SDK 1.60.0](https://github.com/googlevr/gvr-unity-sdk/releases/tag/v1.60.0)
 
+## Submission OS
+- Android
+
 ## Project Reflection
 - Project completion time: 4hrs
 - Something that I really enjoyed about this project was learning about lighting and the complex calculations that are involved in creating a light map.
